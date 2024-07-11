@@ -14,9 +14,9 @@ public class MahoutConfig {
 //        DruidDataSource dataSource=new DruidDataSource();
 //        dataSource.setConnectProperties();
 //        dataSource.setServerName("192.168.1.7");
-//        dataSource.setUser("xhsit");
-//        dataSource.setPassword("sit1818");
-//        dataSource.setDatabaseName("mahout");
+//        dataSource.setUser("root");
+//        dataSource.setPassword("123456");
+//        dataSource.setDatabaseName("booking");
 //        return dataSource;
 //    }
     @Resource
